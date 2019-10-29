@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string-array name= "one">
+
+    <item> WELCOME FACULTY!</item>
+    <item> Inform your students about the events</item>
+    <item>Post any important notice</item>
+        <item></item>
+
+    </string-array>
+</resources>
